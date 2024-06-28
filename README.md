@@ -2,7 +2,7 @@
 NLP with Python  we are using python library like NLTK or spaCy
 To Start NLP You need some basic knowledge on Python and Deep learning and machine learning 
 We are goint to start with some step 
- step 0 -> Python 
+ step 0 -> Python  
  step 1 -> Text Prepration 
                  Part 1 -> basic part of token generation
                          -> tokenization : Corpus  to sentance , sentance to word
