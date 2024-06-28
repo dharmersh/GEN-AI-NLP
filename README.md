@@ -13,7 +13,7 @@ We are goint to start with some step
                          -> Bag of word
                          -> TFIDF
                          -> Unigram
-                         -> Bigram
+                         -> Bigram 
                   part 3-> Advance step to text prepration(text to vector)
                          -> Word to vec (deep Learning concept)
                          -> Avg Word to vec
