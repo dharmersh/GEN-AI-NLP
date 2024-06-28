@@ -1,0 +1,11 @@
+Befor starting NLP we need to know some termanalogy to understand 
+Corpus - its like a pragraph 
+  example :- "My name is Dharmesh and I am working a technical Person.
+              An I want to start working on NLP."
+Document : Any kind of statement
+          example : My name is Dharmesh and I am working a technical Person. this is one stetement 
+Vocablary: A unique word in the paragraph 
+
+word : All word present in the corpus.
+
+
